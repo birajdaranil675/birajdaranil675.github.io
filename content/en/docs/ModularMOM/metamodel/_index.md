@@ -1,6 +1,6 @@
 ---
 title: "MetaModel Concept"
-url: /metamodel-concept/quickstart-guide/
+url: /ModularMOM/metamodel-concept/
 weight: 1
 description: "Learn what is MOD MOM Platform."
 tags: ["microflows", "widgets", "app", "nanoflow", "app development"]
