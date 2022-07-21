@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Mendix Docs"
+title: "Welcome to Modular MOM"
 linktitle: "Docs"
 url: /
 type: landingpage
@@ -15,3 +15,4 @@ cascade:
     - no_list: true
 #for future ease of maintenance, the tab contents might have to be split up into snippets
 ---
+

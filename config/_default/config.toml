@@ -114,7 +114,7 @@ disableKinds = ["taxonomy","taxonomyTerm","term"]
     # github_subdir = ""
 
     # Google Custom Search Engine ID. Remove or comment out to disable search.
-    #gcs_engine_id = "d72aa9b2712488cc3"
+    gcs_engine_id = "d72aa9b2712488cc3"
 
     # Algolia DocSearch
     algolia_docsearch = false

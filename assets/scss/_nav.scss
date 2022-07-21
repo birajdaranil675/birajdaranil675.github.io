@@ -59,7 +59,8 @@
     }
 
     .td-search-input {
-        border: none;
+        border: red;
+        // visibility: hidden;
         color: $navbar-dark-color; // NK - copied from Docsy v0.1.0 file
         @include placeholder {
             color: $navbar-dark-color;
