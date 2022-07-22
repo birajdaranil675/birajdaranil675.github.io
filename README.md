@@ -1,4 +1,4 @@
-# Mendix Documentation [![badge](https://img.shields.io/badge/hugo-0.91.0-green.svg)](https://gohugo.io/) [![badge](https://img.shields.io/badge/node-16.14.0-green.svg)](https://nodejs.org/en/) [![badge](https://img.shields.io/badge/docsy-0.1.0-green.svg)](https://www.docsy.dev/)
+# Modular MOM Documentation [![badge](https://img.shields.io/badge/hugo-0.91.0-green.svg)](https://gohugo.io/) [![badge](https://img.shields.io/badge/node-16.14.0-green.svg)](https://nodejs.org/en/) [![badge](https://img.shields.io/badge/docsy-0.1.0-green.svg)](https://www.docsy.dev/)
 
 This repository contains the Mendix documentation, which is served on [https://docs.mendix.com](https://docs.mendix.com).
 
@@ -23,7 +23,7 @@ To clone the repo there are a few things to keep in mind:
 
 * If you are running on Windows, the directory path for the local directory should not be too long, otherwise some files will reach the limits of git’s file length. A base path of up to 50 characters works - 64 characters is currently too long.
 * If you are using a Git GUI-based tool (such as Sourcetree), make sure you have **Recurse submodules** checked. Github Desktop does this automatically for you.
-* If you are cloning the repo via Git commands from a terminal, run: `git clone --recurse-submodules https://github.com/mendix/docs`
+* If you are cloning the repo via Git commands from a terminal, run: `git clone --recurse-submodules https://github.com/birajdaranil675/hugo-doc`
 
 Clone the repo through one of the above mentioned methods. Check that you have content within the directory `/themes/docsy/`.
 
