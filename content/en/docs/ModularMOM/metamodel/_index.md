@@ -5,17 +5,6 @@ weight: 1
 description: "Learn what is MOD MOM Platform."
 tags: ["microflows", "widgets", "app", "nanoflow", "app development"]
 ---
-<!-- 
-## 1 Introduction 
-
-Welcome to the MOD MOM quickstart guide for building an app. 
-
-* Part 1: [Build a Responsive Web App](/refguide/quickstart-part1/) (estimated time to complete: 25 minutes)
-* Part 2: [Add a Native Mobile App](/refguide/quickstart-part2/) (estimated time to complete: 25 minutes)
-
-{{% alert type="info" %}}
-Put some alert msg here.....
-{{% /alert %}} -->
 
 ## Introduction
 In Metadata-driven systems/architectures, the Metadataforms the crux of the business solution the system provides. The structure and the form of the metadata is governed by the MetadataDSLor the Metamodel. As Modular MOM is built using the Metadata-driven architecture, there is a specific Metamodel that is used to define the Metadata for Modular MOM.
@@ -34,9 +23,9 @@ The salient features of the Modular MOM Metamodel are:
 
 
 
-## The DesignThe 
+## The Design
 
-‘Configurable Object’ forms the core of the Metamodel design. Since the Metadata adheres to the OO principles, a ‘Class or Object Type’ that describes an ‘object instance’ becomes the central idea of the Metadata, and, the ‘Configurable Object’ enables the creation of these ‘Classes’ or ‘Object Types’. Applying the Metadata Abstraction level concepts from the ‘The OMG Group’, the ‘Configurable Object’ represents an instance at M2 level, that means thatthe instances of the ‘Configurable Objects’ represent the instance at M1 level, which, form the ‘type’ definitions for the object instances at M0 level -the actual instance data.
+The ‘Configurable Object’ forms the core of the Metamodel design. Since the Metadata adheres to the OO principles, a ‘Class or Object Type’ that describes an ‘object instance’ becomes the central idea of the Metadata, and, the ‘Configurable Object’ enables the creation of these ‘Classes’ or ‘Object Types’. Applying the Metadata Abstraction level concepts from the ‘The OMG Group’, the ‘Configurable Object’ represents an instance at M2 level, that means thatthe instances of the ‘Configurable Objects’ represent the instance at M1 level, which, form the ‘type’ definitions for the object instances at M0 level -the actual instance data.
 Nagamalli, Ramesh (DI SW MOM R&D AI RI)5Modular MOM MetamodelThe 
 
 ## ‘Configurable Object’
@@ -267,9 +256,9 @@ Workspaces are a concept in the Modular MOM Metamodel that allows for:
 - Ability to easily upgrade customized solutions automatically on new release
 - Ability to build Industry specific solutions on top of the out-of-the-box
 - Ability for Partners to build solutions on top of the out-of-the-box 
-Nagamalli, Ramesh (DI SW MOM R&D AI RI) 12 Modular MOM Metamodel
-Object & Field Usages
-‘Usages’, as exist in Opcenter Ex Core, are a concept that allows for configuring some crosscutting feature functionality on Configurable Objects & Fields. Examples of such features 
+
+## Object & Field Usages
+‘Usages’, as exist in Opcenter Ex Core, are a concept that allows for configuring some cross cutting feature functionality on Configurable Objects & Fields. Examples of such features 
 include: 
 - Specify Object Category
 - Represent Special Fields
@@ -287,6 +276,6 @@ mechanism to toggle this feature per Object definition for fine grained control 
 WIP Messages: Work in progress (WIP) messages can be defined for specific modeling objects 
 so that the message appears to a user when a traceable material with specific attributes 
 reaches a certain processing point.
-Reversibility: Toggle for Transaction reversibility <To PrM: do we need this?>
-Doc Attachments: <Define>
-<More>
+Reversibility: Toggle for Transaction reversibility \< To PrM: do we need this? \>
+Doc Attachments: \< Define \>
+\< More \>

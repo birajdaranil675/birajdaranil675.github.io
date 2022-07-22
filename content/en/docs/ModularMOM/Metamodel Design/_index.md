@@ -1,6 +1,6 @@
 ---
 title: "Metamodel Design"
-url: /refguide/metamodel-design/
+url: /ModularMOM/metamodel-design/
 weight: 2
 no_list: false 
 description_list: true 
