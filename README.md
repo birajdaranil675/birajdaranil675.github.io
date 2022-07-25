@@ -1,6 +1,6 @@
-# Mendix Documentation [![badge](https://img.shields.io/badge/hugo-0.91.0-green.svg)](https://gohugo.io/) [![badge](https://img.shields.io/badge/node-16.14.0-green.svg)](https://nodejs.org/en/) [![badge](https://img.shields.io/badge/docsy-0.1.0-green.svg)](https://www.docsy.dev/)
+# Modular MOM Documentation [![badge](https://img.shields.io/badge/hugo-0.91.0-green.svg)](https://gohugo.io/) [![badge](https://img.shields.io/badge/node-16.14.0-green.svg)](https://nodejs.org/en/) [![badge](https://img.shields.io/badge/docsy-0.1.0-green.svg)](https://www.docsy.dev/)
 
-This repository contains the Mendix documentation, which is served on [https://docs.mendix.com](https://docs.mendix.com).
+This repository contains the Modular MOM documentation, which is served on `yet to be served`.
 
 Build status:
 
@@ -13,7 +13,7 @@ Want to contribute? Take a look at [How to Contribute to the Mendix Documentatio
 
 ## Local Build
 
-You can clone a local copy of the repository and build local previews. The Mendix documentation is built on top of Hugo and Node.JS. The theme of the page is based on Docsy. To develop the documentation locally, follow the steps in the next section.
+You can clone a local copy of the repository and build local previews. The Modular MOM documentation is built on top of Hugo and Node.JS. The theme of the page is based on Docsy. To develop the documentation locally, follow the steps in the next section.
 
 ### Setting Up
 
@@ -23,7 +23,7 @@ To clone the repo there are a few things to keep in mind:
 
 * If you are running on Windows, the directory path for the local directory should not be too long, otherwise some files will reach the limits of git’s file length. A base path of up to 50 characters works - 64 characters is currently too long.
 * If you are using a Git GUI-based tool (such as Sourcetree), make sure you have **Recurse submodules** checked. Github Desktop does this automatically for you.
-* If you are cloning the repo via Git commands from a terminal, run: `git clone --recurse-submodules https://github.com/mendix/docs`
+* If you are cloning the repo via Git commands from a terminal, run: `git clone --recurse-submodules https://github.com/birajdaranil675/hugo-doc`
 
 Clone the repo through one of the above mentioned methods. Check that you have content within the directory `/themes/docsy/`.
 
