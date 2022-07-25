@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <a href="https://gohugo.io/"><img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="565"></a>
 
 A Fast and Flexible Static Site Generator built with love by [bep](https://github.com/bep), [spf13](http://spf13.com/) and [friends](https://github.com/gohugoio/hugo/graphs/contributors) in [Go][].
+=======
+# Modular MOM Documentation [![badge](https://img.shields.io/badge/hugo-0.91.0-green.svg)](https://gohugo.io/) [![badge](https://img.shields.io/badge/node-16.14.0-green.svg)](https://nodejs.org/en/) [![badge](https://img.shields.io/badge/docsy-0.1.0-green.svg)](https://www.docsy.dev/)
+
+This repository contains the Modular MOM documentation, which is served on `yet to be served`.
+>>>>>>> bbc4cf3316d1fbda86810731cb46442dd4a76bf7
 
 [Website](https://gohugo.io) |
 [Forum](https://discourse.gohugo.io) |
@@ -22,8 +28,12 @@ Hugo takes a directory with content and templates and renders them into a full H
 Hugo relies on Markdown files with front matter for metadata, and you can run Hugo from any directory.
 This works well for shared hosts and other systems where you don’t have a privileged account.
 
+<<<<<<< HEAD
 Hugo renders a typical website of moderate size in a fraction of a second.
 A good rule of thumb is that each piece of content renders in around 1 millisecond.
+=======
+You can clone a local copy of the repository and build local previews. The Modular MOM documentation is built on top of Hugo and Node.JS. The theme of the page is based on Docsy. To develop the documentation locally, follow the steps in the next section.
+>>>>>>> bbc4cf3316d1fbda86810731cb46442dd4a76bf7
 
 Hugo is designed to work well for any kind of website including blogs, tumbles, and docs.
 
@@ -31,7 +41,13 @@ Hugo is designed to work well for any kind of website including blogs, tumbles, 
 
 Currently, we provide pre-built Hugo binaries for Windows, Linux, FreeBSD, NetBSD, DragonFly BSD, OpenBSD, macOS (Darwin), and [Android](https://gist.github.com/bep/a0d8a26cf6b4f8bc992729b8e50b480b) for x64, i386 and ARM architectures.
 
+<<<<<<< HEAD
 Hugo may also be compiled from source wherever the Go compiler tool chain can run, e.g. for other operating systems including Plan 9 and Solaris.
+=======
+* If you are running on Windows, the directory path for the local directory should not be too long, otherwise some files will reach the limits of git’s file length. A base path of up to 50 characters works - 64 characters is currently too long.
+* If you are using a Git GUI-based tool (such as Sourcetree), make sure you have **Recurse submodules** checked. Github Desktop does this automatically for you.
+* If you are cloning the repo via Git commands from a terminal, run: `git clone --recurse-submodules https://github.com/birajdaranil675/hugo-doc`
+>>>>>>> bbc4cf3316d1fbda86810731cb46442dd4a76bf7
 
 **Complete documentation is available at [Hugo Documentation](https://gohugo.io/getting-started/).**
 

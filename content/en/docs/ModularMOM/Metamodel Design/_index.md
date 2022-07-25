@@ -1,6 +1,6 @@
 ---
 title: "Metamodel Design"
-url: /refguide/metamodel-design/
+url: /ModularMOM/metamodel-design/
 weight: 2
 no_list: false 
 description_list: true 
@@ -9,4 +9,49 @@ tags: ["studio pro"]
 aliases:
     - /howto/mobile/
 ---
-## here meta model design docs are present....
+
+### Premise
+
+
+
+### Design Approach
+
+
+
+### Design Details
+
+#### Metadata Model Framework
+
+
+
+#### Base Class Library
+
+.
+
+
+#### Runtime Class Library
+
+
+
+#### Configurable Object Attributes
+
+
+
+#### Configurable Object Field Attributes
+
+
+
+#### Metadata Customizations
+
+
+
+#### Metadata Artifacts
+
+##### MODEL ARTIFACTS
+
+
+
+#### Metadata Packaging
+
+
+
