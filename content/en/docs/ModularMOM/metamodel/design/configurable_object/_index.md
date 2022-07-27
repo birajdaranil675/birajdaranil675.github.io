@@ -3,7 +3,7 @@ title: "The Configurable Object"
 weight: 1
 ---
 
-{{< figure src="/images/configobject.png" >}}
+{{< figure src="/images/configurable_object.png" >}}
 
 #### The ‘Configurable Object’ is composed of:
 - **Fields:** These define the ‘properties’ of the object. There are several predefined types 

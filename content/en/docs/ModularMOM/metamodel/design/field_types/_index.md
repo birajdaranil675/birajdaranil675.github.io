@@ -3,7 +3,7 @@ title: "Field Types"
 weight: 3
 ---
 
-{{< figure src="/images/field_object.png" >}}
+{{< figure src="/images/field_types.png" >}}
 
 
 At the highest level, the fields fall into the 2 broad categories – Scalar (Single-valued) or List 

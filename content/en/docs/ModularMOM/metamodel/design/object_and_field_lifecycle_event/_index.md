@@ -3,7 +3,7 @@ title: "Object and Field Life-Cycle Events"
 weight: 5
 ---
 
-{{< figure src="/images/Object_and_field_life-cycle_events.png" >}}
+{{< figure src="/images/object_and_filed_lifecycle_events.png" >}}
 
 ### OBJECT EVENTS
 **OnInitialize:** Triggered when the object is created. Provides hooks to initialize the object with 
