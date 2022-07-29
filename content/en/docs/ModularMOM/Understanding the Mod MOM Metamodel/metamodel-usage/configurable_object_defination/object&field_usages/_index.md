@@ -1,8 +1,5 @@
 ---
 title: "Object & Field Usages"
-<<<<<<< HEAD:content/en/docs/ModularMOM/Understanding the Mod MOM Metamodel/metamodel-usage/configurable_object_defination/object&field_usages/_index.md
----
-=======
 weight: 5
 ---
 
@@ -15,4 +12,4 @@ additional details.
 Revisioned objects are special fields with certain specific behavior defined as per the
 Metamodel design. They are implemented as specific types in the ‘Base Class Library’ that
 could be used to represent these Usages on the Field definitions.
->>>>>>> ea373b18d0d187313d584a554f3c031e38f5a508:content/en/docs/ModularMOM/metamodel-usage/configurable_object_defination/object&field_usages/_index.md
+
