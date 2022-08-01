@@ -3,7 +3,7 @@ title: "Understanding the Mod MOM MetaModel"
 url: /ModularMOM/Understanding the Mod MOM MetaModel/
 description: "The various sections of the MOD MOM Guide provide details on the features and functionality of the MOD MOM."
 tags: ["studio pro"]
-weight: 10
+weight: 2
 no_list: false
 description_list: true
 cascade:
