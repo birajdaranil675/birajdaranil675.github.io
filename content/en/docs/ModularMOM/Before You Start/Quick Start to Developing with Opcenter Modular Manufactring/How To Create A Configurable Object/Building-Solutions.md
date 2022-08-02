@@ -3,11 +3,11 @@ title: "Building Solutions"
 weight: 10
 ---
 
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
 1. [How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html)
-# **Modular MOM : Building Solutions** 
+# **Modular MOM : Building Solutions**  -->
 Created by Unknown User (sergey.postoyalko), last modified by Alvarez Villanueva, Beatriz on Nov 09, 2021 
 
 You can build the solutions in one of the following ways:

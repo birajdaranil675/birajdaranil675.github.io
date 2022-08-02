@@ -1,12 +1,12 @@
 ﻿---
-title: "Creating-a-Metadata-Model"
+title: "Creating a Metadata Model"
 url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/creating-a-metadata-model/
 weight: 4
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
-# **Modular MOM : Creating a Metadata Model** 
+# **Modular MOM : Creating a Metadata Model**  -->
 Created by Alvarez Villanueva, Beatriz, last modified on Dec 09, 2021 
 
 Opcenter Modular Manufacturing is based on the Metadata-driven architecture so the Metamodel is used to define the Metadata for Opcenter Modular Manufacturing, that is, to configure the business objects and processes used by Opcenter Modular Manufacturing applications .

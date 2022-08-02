@@ -1,12 +1,12 @@
 ﻿---
-title: "Setting-Up-a-New-Model-from-Template"
+title: "Setting Up a New Model from Template"
 weight: 5
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
 1. [How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html)
-# **Modular MOM : Setting Up a New Model from Template** 
+# **Modular MOM : Setting Up a New Model from Template**  -->
 Created by Unknown User (sergey.postoyalko), last modified by Aghazarian, Nick on Nov 08, 2021 
 
 Modular MOM provides the **M1\_Template** and **M1\_Template.Tests** repos as a tool used to create a starting point for a new model. Its usage is described below.

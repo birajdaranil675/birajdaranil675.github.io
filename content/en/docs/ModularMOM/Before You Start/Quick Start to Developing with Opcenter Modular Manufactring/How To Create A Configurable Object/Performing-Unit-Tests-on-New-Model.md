@@ -1,12 +1,12 @@
 ﻿---
-title: "Performing-Unit-Tests-on-New-Model"
+title: "Performing Unit Tests on New Model"
 weight: 7
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
 1. [How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html)
-# **Modular MOM : Performing Unit Tests on New Model** 
+# **Modular MOM : Performing Unit Tests on New Model**  -->
 Created by Unknown User (sergey.postoyalko), last modified by Alvarez Villanueva, Beatriz on Nov 04, 2021 
 
 The model that was set up following the steps in [Setting Up a New Model from Template](c:\users\anil.birajdar\desktop\temp\Setting-Up-a-New-Model-from-Template_127733030.html) with the named object and service object created following the steps in [Creating a New Named Object](c:\users\anil.birajdar\desktop\temp\Creating-a-New-Named-Object_127733034.html) and [Creating a New Service Object](c:\users\anil.birajdar\desktop\temp\Creating-a-New-Service-Object_134453962.html) respectively is used here as the example of how to unit test a new model. Follow these steps to unit test your new model.

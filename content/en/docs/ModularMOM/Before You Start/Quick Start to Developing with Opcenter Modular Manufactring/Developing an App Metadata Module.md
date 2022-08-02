@@ -4,10 +4,10 @@ url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modula
 weight: 5
 ---
 
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
-# **Modular MOM : Developing an App / Metadata Module** 
+# **Modular MOM : Developing an App / Metadata Module**  -->
 Created by Alvarez Villanueva, Beatriz, last modified by Nagamalli, Ramesh on Feb 09, 2022 
 
 A Metadata Module is an isolated and independently deployable unit that can be composed with other loosely couple modules in order to create a customized Product. A metadata model is used to configure the business objects and processes used by a Modular MOM application. A metadata model will have dependencies on many other models that are maintained separately and stored in their own git repos.

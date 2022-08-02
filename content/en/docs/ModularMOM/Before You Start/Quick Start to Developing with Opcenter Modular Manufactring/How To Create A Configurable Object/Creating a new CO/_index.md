@@ -2,11 +2,11 @@
 title: "Creating a New CO"
 weight: 6
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
 1. [How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html)
-# **Modular MOM : Creating a New CO** 
+# **Modular MOM : Creating a New CO**  -->
 Created by Unknown User (sergey.postoyalko), last modified by Alvarez Villanueva, Beatriz on Nov 08, 2021 
 
 The Configurable Object contains a collection of Fields and can be represented in the C# class of the Object. It also enables the creation of classes or object types to describe an object instance, the central idea of the Metadata. 

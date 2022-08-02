@@ -1,12 +1,12 @@
 ﻿---
-title: "Updating-NuGet.Config_127739663"
+title: "Updating NuGet.Config"
 weight: 2
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
 1. [How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html)
-# **Modular MOM : Updating NuGet.Config** 
+# **Modular MOM : Updating NuGet.Config**  -->
 Created by Unknown User (sergey.postoyalko), last modified by Aghazarian, Nick on Apr 07, 2022 
 
 The models use nuget packages as references to access the MetadataRuntime binaries. These nuget packages are located when the system searches the nuget.config files. The MetadataRuntime Plaform nuget packages are created as part of the Platform build pipeline process.

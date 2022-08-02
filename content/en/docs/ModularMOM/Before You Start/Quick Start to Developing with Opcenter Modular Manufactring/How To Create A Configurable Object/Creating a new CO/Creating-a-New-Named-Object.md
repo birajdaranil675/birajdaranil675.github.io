@@ -1,13 +1,13 @@
 ﻿---
-title: "Creating-a-New-Named-Object"
+title: "Creating a New Named Object"
 weight: 1
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
 1. [How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html)
 1. [Creating a New CO](c:\users\anil.birajdar\desktop\temp\Creating-a-New-CO_134452147.html)
-# **Modular MOM : Creating a New Named Object** 
+# **Modular MOM : Creating a New Named Object**  -->
 Created by Unknown User (sergey.postoyalko), last modified by Aghazarian, Nick on Apr 07, 2022 
 
 In this page, the model that was set up using **M1\_Template**, will be modified by adding a new named object named **NDO**. Follow this procedure to create a new named object.

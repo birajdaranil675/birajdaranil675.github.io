@@ -4,8 +4,8 @@ url: /modularmom/
 description: "The various sections of the MOD MOM Guide provide details on the features and functionality of the MOD MOM."
 tags: ["studio pro"]
 weight: 10
-no_list: false
-description_list: true
+# no_list: false
+# description_list: true
 cascade:
     - space: "Studio Pro 9 Guide"
     - mendix_version: "9"
@@ -14,13 +14,13 @@ cascade:
 ---
 
 
-<<<<<<< HEAD
+
 ##### The various sections of the MOD MOM Guide provide details on the features and functionality of the MOD MOM.
 
 1. [Before You Start](/modularmom/before-you-start/)
 
 2. [Understanding the Mod MOM MetaModel](/modularmom/understanding-the-mod-mom-metamodel/)
 3. [Platform Concepts](/modularmom/platform-concepts/)
-=======
-# The various sections of the MOD MOM Guide provide details on the features and functionality of the MOD MOM.
->>>>>>> 44bfe9ebcd3245581d1c02f5b7eb04b2aefb4ca2
+
+
+

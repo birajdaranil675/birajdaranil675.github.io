@@ -3,10 +3,10 @@ title: "Configuring-the-Development-Environment"
 url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/configuring-the-development-environment/
 weight: 1
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
-# **Modular MOM : Configuring the Development Environment** 
+# **Modular MOM : Configuring the Development Environment**  -->
 Created by Accorsi, Carlo, last modified by Aghazarian, Nick on May 10, 2022 
 
 This document describes how to configure a Visual Studio Environment for Metadata Runtime Solutions and Projects.

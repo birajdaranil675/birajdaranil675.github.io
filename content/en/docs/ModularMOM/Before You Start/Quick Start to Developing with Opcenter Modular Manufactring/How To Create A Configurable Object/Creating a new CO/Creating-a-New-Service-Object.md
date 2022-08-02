@@ -1,13 +1,13 @@
 ﻿---
-title: "Creating-a-New-Service-Object"
+title: "Creating a New Service Object"
 weight: 2
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
 1. [How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html)
 1. [Creating a New CO](c:\users\anil.birajdar\desktop\temp\Creating-a-New-CO_134452147.html)
-# **Modular MOM : Creating a New Service Object** 
+# **Modular MOM : Creating a New Service Object**  -->
 Created by Unknown User (sergey.postoyalko), last modified by Aghazarian, Nick on Apr 07, 2022 
 
 In this page, a new service object named **NamedService** will be created for *NDO* that was created in [How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html). Follow this procedure to create a new service object

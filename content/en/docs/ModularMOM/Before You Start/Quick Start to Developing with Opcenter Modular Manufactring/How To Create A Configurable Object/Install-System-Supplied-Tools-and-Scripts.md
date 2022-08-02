@@ -1,12 +1,12 @@
 ﻿---
-title: "Install-System-Supplied-Tools-and-Scripts"
+title: "Install System Supplied Tools and Scripts"
 weight: 3
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
 1. [How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html)
-# **Modular MOM : Install System Supplied Tools and Scripts** 
+# **Modular MOM : Install System Supplied Tools and Scripts**  -->
 Created by Aghazarian, Nick on Apr 07, 2022 
 
 1. Install the idgenerator tool, selecting the current version

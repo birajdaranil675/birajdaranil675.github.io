@@ -1,12 +1,12 @@
 ﻿---
-title: "Siemens-Web-Framework-Fundamentals"
+title: "Siemens Web Framework Fundamentals"
 url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/siemens-web-framework-fundamentals/
 weight: 1
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
-# **Modular MOM : Siemens Web Framework Fundamentals** 
+# **Modular MOM : Siemens Web Framework Fundamentals**  -->
 Created by Alvarez Villanueva, Beatriz, last modified on Nov 02, 2021 
 
 As described in the Siemens page <https://viewer.docs.sws.siemens.com/en-US/product/224565084/sws/PL20181210134853460.apollo_topicSet/html/web_framework_overview>, "Siemens Web Framework (SWF) is a configuration first framework that lets you rapidly develop web applications with significantly less code to write, test, maintain and download at runtime. It follows top trends in the front-end development like component-oriented design, declarative coding, consolidation of state management, SPA and client-side routing, extensions via JS code to manage application complexity."
