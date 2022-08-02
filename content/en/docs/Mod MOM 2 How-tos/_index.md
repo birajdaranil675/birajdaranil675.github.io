@@ -1,4 +1,5 @@
 ---
-title: "Mod MOM 2 How-tos"
+title: "Mod MOM How-tos"
+url: /modmom-how-tos/
 weight: 11
 ---
