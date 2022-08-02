@@ -1,5 +1,6 @@
 ﻿---
 title: "Developing an App / Metadata Module"
+url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/developing-an-app-metadata-module/
 weight: 5
 ---
 

@@ -1,13 +1,15 @@
 ---
 title: "Before You Start"
+url: /modularmom/before-you-start/
 weight: 1
+
 ---
 
-1. [Modular MOM](C:\Users\anil.birajdar\Desktop\MOD MOM DOC\docs\content\en\docs\ModularMOM\_index.md)
-# **Modular MOM : Before You Start** 
+<!-- 1. [Modular MOM](/modularmom/) -->
+<!-- # **Modular MOM : Before You Start**  -->
 Created by Alvarez Villanueva, Beatriz,
 
-**Welcome on board OCMOD users!**
+# **Welcome on board OCMOD users!**
 ## **Prerequisites**
 You need to have:
 
@@ -23,5 +25,5 @@ You need to have:
 ## **First Steps**
 The following pages help you to better understand Opcenter Modular Manufacturing:
 
-- [**OCMOD Concepts And First Steps To Use**](c:\users\anil.birajdar\desktop\temp\OCMOD-Concepts-And-First-Steps-To-Use_127740204.html). It contains introductory videos regarding Metadata concepts and one operational video explaining how to create a Module.
-- [**Quick Start to Developing with Opcenter Modular Manufacturing**](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html): It describes how to perform basic operations to start working OCMOD.
+- [**OCMOD Concepts And First Steps To Use**](/modularmom/before-you-start/ocmod-concepts-and-first-steps-to-use/). It contains introductory videos regarding Metadata concepts and one operational video explaining how to create a Module.
+- [**Quick Start to Developing with Opcenter Modular Manufacturing**](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/): It describes how to perform basic operations to start working OCMOD.

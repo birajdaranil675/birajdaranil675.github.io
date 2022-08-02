@@ -1,10 +1,10 @@
 ﻿---
-title: "Intro OCMOD"
+title: " Introduction of OCMOD Documentation"
 weight: 3
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
-# **Modular MOM : Introduction of OCMOD Documentation** 
+# **Modular MOM : Introduction of OCMOD Documentation**  -->
 Created by Alvarez Villanueva, Beatriz, last modified on Jun 27, 2022 
 ## **Opcenter Modular Manufacturing documentation spaces**
 There are 2 documentation spaces of Modular MOM:

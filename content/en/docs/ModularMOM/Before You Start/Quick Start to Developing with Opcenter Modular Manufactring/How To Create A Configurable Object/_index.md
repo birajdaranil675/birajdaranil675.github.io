@@ -1,12 +1,13 @@
 ---
 title: "How to Create a Configurable Object"
+url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/
 weight: 3
 ---
 
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
 1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
 1. [Quick Start to Developing with Opcenter Modular Manufacturing](c:\users\anil.birajdar\desktop\temp\Quick-Start-to-Developing-with-Opcenter-Modular-Manufacturing_134455239.html)
-# **Modular MOM : How to Create a Configurable Object** 
+# **Modular MOM : How to Create a Configurable Object**  -->
 Created by Unknown User (sergey.postoyalko), last modified by Aghazarian, Nick on Apr 07, 2022 
 
 A Configurable Object contains a collection of Fields and can be represented in the C# class of the Object. It is the core of the Metamodel design because it enables the creation of classes or object types to describe an object instance, the central idea of the Metadata. 

@@ -1,5 +1,6 @@
 ﻿---
 title: "Siemens-Web-Framework-Fundamentals"
+url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/siemens-web-framework-fundamentals/
 weight: 1
 ---
 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)

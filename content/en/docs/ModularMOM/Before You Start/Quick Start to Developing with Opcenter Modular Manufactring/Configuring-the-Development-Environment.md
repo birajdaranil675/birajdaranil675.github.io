@@ -1,5 +1,6 @@
 ﻿---
 title: "Configuring-the-Development-Environment"
+url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/configuring-the-development-environment/
 weight: 1
 ---
 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)

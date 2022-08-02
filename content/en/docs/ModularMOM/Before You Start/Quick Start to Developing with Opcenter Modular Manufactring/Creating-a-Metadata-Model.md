@@ -1,5 +1,6 @@
 ﻿---
 title: "Creating-a-Metadata-Model"
+url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/creating-a-metadata-model/
 weight: 4
 ---
 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)

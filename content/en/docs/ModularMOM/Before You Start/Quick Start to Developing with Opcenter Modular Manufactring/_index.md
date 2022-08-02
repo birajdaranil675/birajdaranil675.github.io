@@ -1,25 +1,26 @@
 ---
 title: "Quick Start to Developing with Opcenter Modular Manufacturing"
+url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/
 weight: 4
 ---
-1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
-1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html)
+<!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)
+1. [Before You Start](c:\users\anil.birajdar\desktop\temp\Before-You-Start_127740192.html) -->
  
 Created by Alvarez Villanueva, Beatriz, last modified on Mar 30, 2022 
 
 This manual describes how to perform basic operations to start working with Opcenter Modular Manufacturing:
 
-[Configuring the Development Environment](c:\users\anil.birajdar\desktop\temp\Configuring-the-Development-Environment_115682527.html) : a mandatory step to configure a Visual Studio environment for Metadata Runtime Solutions and Projects.
+[Configuring the Development Environment](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/configuring-the-development-environment/) : a mandatory step to configure a Visual Studio environment for Metadata Runtime Solutions and Projects.
 
 [Architecture Overview](https://teams.microsoft.com/_#/files/General?threadId=19%3A693858e92db740eeb8908b6468474901%40thread.tacv2&ctx=channel&context=Architecture&rootfolder=%252Fsites%252FModularMOM-WalkingSkeleton%252FShared%2520Documents%252FGeneral%252FArchitecture): a list of documents written and maintained by the Architect group to understand the architectural concepts.
 
-[Siemens Web Framework Fundamentals](c:\users\anil.birajdar\desktop\temp\Siemens-Web-Framework-Fundamentals_134455969.html): a list of video repositories and tutorials to start working with SWF.
+[Siemens Web Framework Fundamentals](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/siemens-web-framework-fundamentals/): a list of video repositories and tutorials to start working with SWF.
 
-[How to Create a Configurable Object](c:\users\anil.birajdar\desktop\temp\How-to-Create-a-Configurable-Object_125339498.html): initial procedure to create a Configurable Object, the starting point of Metadata development.
+[How to Create a Configurable Object](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/): initial procedure to create a Configurable Object, the starting point of Metadata development.
 
-[Creating a Metadata Model](c:\users\anil.birajdar\desktop\temp\Creating-a-Metadata-Model_115692078.html): procedure to create a Metadata Model and define the Metadata for Opcenter Modular Manufacturing.
+[Creating a Metadata Model](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/creating-a-metadata-model/): procedure to create a Metadata Model and define the Metadata for Opcenter Modular Manufacturing.
 
-[Developing an App / Metadata Module](c:\users\anil.birajdar\desktop\temp\134455247.html): initial procedure to create and develop a Metadata Module that will be used to configure the business objects and processes used by an OCMOD application.
+[Developing an App / Metadata Module](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/developing-an-app-metadata-module/): initial procedure to create and develop a Metadata Module that will be used to configure the business objects and processes used by an OCMOD application.
 
 Other important concepts & reference topics:
 
