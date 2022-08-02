@@ -36,16 +36,16 @@ namespace FilesConverter
 
             string output_fileName = input_fileName.Substring(0, input_fileName.Length - 5);
 
-            var doc = new Document(@"C:\Users\anil.birajdar\Desktop\Before You start\RevMOM\html-files\index.html");
+            var doc = new Document(filePath);
 
-            doc.Save("c:\\users\\anil.birajdar\\desktop\\markdowns\\"+output_fileName+".md");
+            doc.Save("Put your folder path here where you want markdown files present"+output_fileName+".md");
 
         }
 
         static void Main(string[] args)
         { 
 
-            listFilesInDirectory(@"C:\Users\anil.birajdar\Desktop\temp");
+            listFilesInDirectory(@"Put your folder path here where your html files present");
 
             Console.ReadLine();
         
