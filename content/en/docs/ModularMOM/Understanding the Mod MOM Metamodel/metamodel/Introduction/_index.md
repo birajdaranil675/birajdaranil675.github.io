@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-url: /ModularMOM/metamodel-concept/Intro/
+url: /modularmom/metamodel-concept/intro/
 weight: 1
 ---
 

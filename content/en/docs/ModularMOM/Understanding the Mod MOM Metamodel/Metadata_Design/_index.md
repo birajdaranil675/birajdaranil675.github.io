@@ -7,5 +7,5 @@ description_list: true
 # tags: ["runtime", "runtime server", "mendix client", "cluster leader"]
 ---
 
-[Metadata_Component_overview-General](/ModularMOM/Metadata-design/Metadata-Components-Overview-General/)
-[Metadata- model_execution](/ModularMOM/Metadata-design/METADATA – MODEL EXECUTION/)
+<!-- [Metadata_Component_overview-General](/ModularMOM/Metadata-design/Metadata-Components-Overview-General/)
+[Metadata- model_execution](/ModularMOM/Metadata-design/METADATA – MODEL EXECUTION/) -->

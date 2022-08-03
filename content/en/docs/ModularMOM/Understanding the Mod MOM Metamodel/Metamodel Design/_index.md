@@ -10,48 +10,7 @@ aliases:
     - /howto/mobile/
 ---
 
-### Premise
 
-
-
-### Design Approach
-
-
-
-### Design Details
-
-#### Metadata Model Framework
-
-
-
-#### Base Class Library
-
-.
-
-
-#### Runtime Class Library
-
-
-
-#### Configurable Object Attributes
-
-
-
-#### Configurable Object Field Attributes
-
-
-
-#### Metadata Customizations
-
-
-
-#### Metadata Artifacts
-
-##### MODEL ARTIFACTS
-
-
-
-#### Metadata Packaging
 
 
 

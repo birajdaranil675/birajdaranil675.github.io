@@ -1,5 +1,6 @@
 ---
 title: "The Basics"
+url: /modularmom/understanding-the-mod-mom-metamodel/metamodel/basics/
 weight: 2
 ---
 

@@ -1,8 +1,0 @@
-C:\Users\vijbod58\source\repos\modmom\modmom\bin\Debug\modmom.exe.config
-C:\Users\vijbod58\source\repos\modmom\modmom\bin\Debug\modmom.xml
-C:\Users\vijbod58\source\repos\modmom\modmom\bin\Debug\modmom.exe
-C:\Users\vijbod58\source\repos\modmom\modmom\bin\Debug\modmom.pdb
-C:\Users\vijbod58\source\repos\modmom\modmom\obj\Debug\modmom.csproj.CoreCompileInputs.cache
-C:\Users\vijbod58\source\repos\modmom\modmom\obj\Debug\modmom.exe
-C:\Users\vijbod58\source\repos\modmom\modmom\obj\Debug\modmom.pdb
-C:\Users\vijbod58\source\repos\modmom\modmom\obj\Debug\modmom.csproj.AssemblyReference.cache
