@@ -3,23 +3,23 @@ title: "Project Environment Setup"
 url: /project_env_setup/
 ---
 
-* ### 1. Mod MOM Project Env 
+### 1. Mod MOM Project Env 
 
-1.1. ![](Mod%20Mom%20Project%20Env\_setupMod%20MOM%20Project%20En.002.png) Installation 
+#### Installation 
 
-1.1.1. Visual Studio 2022[\[LINK\]](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+1. Visual Studio 2022[\[LINK\]](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
 
-1.1.2. GIT[\[LINK\]](https://download.tortoisegit.org/tgit/2.13.0.0/TortoiseGit-2.13.0.1-64bit.msi)
+2. GIT[\[LINK\]](https://download.tortoisegit.org/tgit/2.13.0.0/TortoiseGit-2.13.0.1-64bit.msi)
 
-1.1.3. MS SQL Server[\[LINK\]](https://go.microsoft.com/fwlink/?linkid=866658)
+3. MS SQL Server[\[LINK\]](https://go.microsoft.com/fwlink/?linkid=866658)
 
-1.1.4. MS SQL Server Studio[\[LINK\]](https://aka.ms/ssmsfullsetup)
+4. MS SQL Server Studio[\[LINK\]](https://aka.ms/ssmsfullsetup)
 
-1.1.5. Visual Studio Code
+5. Visual Studio Code[\[LINK\]](https://code.visualstudio.com/download)
 
-1.1.6. Node js
+6. Node js[\[LINK\]](https://nodejs.org/en/download/)
 
-1.2. ![](Mod%20Mom%20Project%20Env\_setupMod%20MOM%20Project%20En.002.png) Server Setup[\[LINK\]](https://momwiki02.industrysoftware.automation.siemens.com/display/RevMOM/How+to+setup+the+SQL+Server+sa+user+on+Opcenter+X+VDI)
+1.2.  Server Setup[\[LINK\]](https://momwiki02.industrysoftware.automation.siemens.com/display/RevMOM/How+to+setup+the+SQL+Server+sa+user+on+Opcenter+X+VDI)
 
 1.2.1. Reset sa account password [\[LINK\]](https://momwiki02.industrysoftware.automation.siemens.com/display/RevMOM/How+to+setup+the+SQL+Server+sa+user+on+Opcenter+X+VDI)
 
