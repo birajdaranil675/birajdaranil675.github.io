@@ -22,7 +22,7 @@ The following software is required to create a new CO for Opcenter Modular Manuf
 - SQL Server version 14.0 Express or newer. Follow standard procedures to install the **Default** instance, otherwise change the environment configuration in case of an instance-based installation. Then open SQL Server Management Studio and verify that you can connect to the server by using the Windows authentication.
 - A  tool to clone Git repositories. It is recommended to use either Sourcetree or Git Bash.
 ## **Workflow**
-1. [Prepare a database](c:\users\anil.birajdar\desktop\temp\Preparing-a-Database_127739661.html).
+1. [Prepare a database](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/preparing-a-database/).
 1. Create an empty folder for source code with a short name. For convenience the path to the created folder should contain no spaces.
 1. Clone the following Git repositories into your folder for source code:
 
@@ -31,12 +31,12 @@ The following software is required to create a new CO for Opcenter Modular Manuf
 |**MetadataRuntime**|<https://tfs05mom.industrysoftware.automation.siemens.com/MOM/ModularMOM/_git/MetadataRuntime>|
 |**M1\_Template**|<https://tfs05mom.industrysoftware.automation.siemens.com/MOM/ModularMOM/_git/M1_Template>|
 |**M1\_Template.Tests**|<https://tfs05mom.industrysoftware.automation.siemens.com/MOM/ModularMOM/_git/M1_Template.Tests>|
-1. [Update NuGet.Config](c:\users\anil.birajdar\desktop\temp\Updating-NuGet.Config_127739663.html).
+1. [Update NuGet.Config](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/updating-nuget.config/).
 1. Empty the folder C:\Users\<*your user folder*>\.nuget\**packages**.
-1. [Install System supplied tools and scripts](c:\users\anil.birajdar\desktop\temp\Install-System-Supplied-Tools-and-Scripts_144142065.html)
-1. [Prepare the MetadataRuntime Platform.](c:\users\anil.birajdar\desktop\temp\Preparing-MetadataRuntime-Platform_127733162.html)
-1. [Set up a new model from the template](c:\users\anil.birajdar\desktop\temp\Setting-Up-a-New-Model-from-Template_127733030.html).
-1. [Create a new CO](c:\users\anil.birajdar\desktop\temp\Creating-a-New-CO_134452147.html).
+1. [Install System supplied tools and scripts](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/install-system-supplied-tools-and-scripts/)
+1. [Prepare the MetadataRuntime Platform.](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/preparing-metadataruntime-platform/)
+1. [Set up a new model from the template](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/preparing-metadataruntime-platform/).
+1. [Create a new CO](/modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/creating-a-new-co/).
 1. Optionally, [perform unit test on the new model](c:\users\anil.birajdar\desktop\temp\Performing-Unit-Tests-on-New-Model_127733830.html).
 1. [Publish, deploy, and test End-to-End](c:\users\anil.birajdar\desktop\temp\127733170.html)
 1. [Set the system variables](c:\users\anil.birajdar\desktop\temp\Setting-System-Variables_127739693.html).

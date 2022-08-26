@@ -1,5 +1,6 @@
 ﻿---
 title: "Preparing database"
+url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/preparing-a-database/
 weight: 1
 ---
 

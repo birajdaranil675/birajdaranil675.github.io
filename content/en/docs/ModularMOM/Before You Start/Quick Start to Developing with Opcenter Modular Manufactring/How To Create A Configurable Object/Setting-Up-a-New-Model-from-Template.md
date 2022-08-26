@@ -1,5 +1,6 @@
 ﻿---
 title: "Setting Up a New Model from Template"
+url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/preparing-metadataruntime-platform/
 weight: 5
 ---
 <!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)

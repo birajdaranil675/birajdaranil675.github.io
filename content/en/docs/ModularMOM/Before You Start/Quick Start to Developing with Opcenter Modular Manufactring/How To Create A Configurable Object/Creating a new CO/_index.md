@@ -1,5 +1,6 @@
 ---
 title: "Creating a New CO"
+url: /modularmom/before-you-start/quick-start-to-developing-with-opcenter-modular-manufactring/how-to-create-a-configurable-object/creating-a-new-co/
 weight: 6
 ---
 <!-- 1. [Modular MOM](c:\users\anil.birajdar\desktop\temp\index.html)

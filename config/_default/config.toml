@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://birajdaranil675.github.io"
 title = "ModMOM Documentation"
 enableRobotsTXT = true
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
